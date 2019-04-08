@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "197988019892",
+    "firebase_url": "https://assignment2-ffea2.firebaseio.com",
+    "project_id": "assignment2-ffea2",
+    "storage_bucket": "assignment2-ffea2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197988019892:android:81f0fbf75ec9949e",
+        "android_client_info": {
+          "package_name": "ass2.bcit.ca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197988019892-ap7b34qnbpi0rhriu3f9um7teuprfaok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ass2.bcit.ca",
+            "certificate_hash": "438013109f5a90125a3dbd3d71c5d0ed0df4014d"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwnanHpXr9uB_sEg6VlP941pMObh7d13I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197988019892-i3abe8pl06ffrrqiqauv4pebt9j5c9hn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
